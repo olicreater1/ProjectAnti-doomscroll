@@ -1,6 +1,6 @@
 # ProjectAnti-doomscroll
-A chrome extension for blocking specific HTML elements off of a page, this is a chrome extension so it will only work on desktop
-
+A chrome extension for blocking specific HTML elements of a certain class off of a page, this is a chrome extension so it will only work on desktop.
+This extension uses sliders to change the opacity of the element which gives full controll to you, the user, to be able to customize any HTML page however you want.
 # Install Instructions
 I don't have this on the chrome extensions library yet, so for now, you. will need to put it in manually
 

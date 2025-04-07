@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "ProjectAnti-doomscroll",
+    "version": "1.0",
+    "description": "A chrome extension for blocking specific HTML elements off of a page",
+    "permissions": ["activeTab", "scripting"],
+    "host_permissions": ["<all_urls>"],
+    "background": {
+      "service_worker": "extension.js"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.jpeg"
+    }
+  }
+  
